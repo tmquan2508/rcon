@@ -1,0 +1,6 @@
+name: rcon
+version: '1.0-SNAPSHOT'
+main: com.tmquan2508.rcon.Rcon
+api-version: '1.21'
+author: tmquan2508
+description: A TCP bridge for streaming logs and receiving remote console commands.
